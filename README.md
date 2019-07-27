@@ -1,9 +1,7 @@
 # Season Project Assignement
 
-----
 
-
-###This little assignement is build under react and semantic-ui.
+##This little assignement is build under react and semantic-ui.
 
 It was made in order to train myself about basics of react. 
 This app detects automatically by geolocation the season of the User. 
